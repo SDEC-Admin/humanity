@@ -136,6 +136,7 @@ p, li {
 	margin-top: 20px;
 	margin-left: auto;
 	margin-right: auto;
+	display: block;
 }
 p.text-center.sub-text {
 	font-size: 19px;
@@ -242,6 +243,7 @@ ul.nav.navbar-nav li a{
 	top: -47px;
 	left: 5px;
 	border-bottom: none;
+	display: block;
 }
 @media (max-width: 768px){
 	.logo {
@@ -252,6 +254,7 @@ ul.nav.navbar-nav li a{
 	bottom: 5px;
 	left: -18px;
 	float:left;
+	display: block;
 	}
 }
 
@@ -837,6 +840,9 @@ a:hover {
 	border: 1px solid #e1e8ed;
 	border-radius: 3px;
 	padding: 35px 29px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
 @media (max-width: 991px){
 	.subscribe {
