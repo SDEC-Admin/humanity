@@ -119,6 +119,8 @@ p, li {
 	padding: 50px 0;
 	margin-left: auto;
 	margin-right: auto;
+	text-align: center;
+	
 }
 .heading-icon{
 	margin-top: 79px;
@@ -137,6 +139,7 @@ p, li {
 	margin-left: auto;
 	margin-right: auto;
 	display: block;
+	text-align: center;
 }
 p.text-center.sub-text {
 	font-size: 19px;
