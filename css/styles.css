@@ -49,7 +49,7 @@ divider {
 	border-bottom: 2px solid;
 }
 body {
-	background: rgba(153, 211, 213, 0.32);
+	background: rgba(255, 255, 255, 0.32);
 	margin: 0px;
 	padding: 0px;
 	font-family: 'Varela Round', sans-serif;
@@ -1169,7 +1169,7 @@ footer{
 	float: left;
 	width: 100%;
 	overflow: hidden;
-	background: #395B71;
+	background: #EF0000;
 	color: white;
 }
 .footer-menus li{
