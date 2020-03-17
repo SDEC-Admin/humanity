@@ -840,8 +840,6 @@ a:hover {
 	border: 1px solid #e1e8ed;
 	border-radius: 3px;
 	padding: 35px 29px;
-	display: block;
-	margin: auto;
 }
 @media (max-width: 991px){
 	.subscribe {
@@ -857,7 +855,7 @@ a:hover {
 	padding-left: 18px;
 	border: 1px solid #e1e8ed;
 	border-radius: 3px;
-	margin: auto;
+}
 
 .email-field input:focus
 {
@@ -872,13 +870,11 @@ a:hover {
 	margin-top: -37px;
 	font-size: 18px;
 	float: right;
-	margin: auto;
 }
 
 .email-field .button-main {
 	padding: 9px 27px;
 	font-size: 20px;
-	margin: auto;
 }
 
 .email-field span
@@ -891,7 +887,6 @@ a:hover {
 	float: left;
 	padding-top: 10px;
 	letter-spacing: 0.4px;
-	margin: auto;
 }
 
 .email-input
@@ -902,7 +897,6 @@ a:hover {
 	line-height: 32px;
 	padding-left: 0px;
 	margin: 29px 0px 30px;
-	margin: auto;
 }
 /******* Subscribe End ******/
 
