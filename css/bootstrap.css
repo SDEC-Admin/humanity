@@ -97,6 +97,10 @@ CUSTOM CUSTOM CUSTOM
 .h1 {
   text-align: center !important;
 }
+
+.donate-card {
+  background-color: #000000 !important;
+}
 nav a {
   text-decoration: none !important;
 }
